@@ -1,0 +1,28 @@
+_repo: ChainsA-Play-in-Four-Acts_46240
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46240-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baker, Elizabeth
+    birthdate: 1876
+    deathdate: 1962
+    gutenberg_agent_id: '43676'
+    url: http://www.gutenberg.org/2009/agents/43676
+description: ''
+gutenberg_issued: '2014-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle class -- England -- Drama'
+- !lcsh 'English drama -- 20th century'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 20th century -- Drama'
+title: 'Chains: A Play, in Four Acts'
+url: http://www.gutenberg.org/ebooks/46240
